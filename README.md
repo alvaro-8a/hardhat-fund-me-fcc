@@ -10,8 +10,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `alvaro-8a`, `hardhat-fund-me-fcc`, `alvaro_8a_`, `alvaro-blanco-ochoa-9b14561a9`, `gmail`, `alvaroblanco8a`, `Crowdfunding Smart Contract`, `project_description`
-
 All the code was develop for learning from the [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&lis) from freeCodeCamp.org and Patrick Collins
 
 The project represents a smart contract for crowdfunding, where people can send money to the contract (getting their wallets and amount sent stored inside the smart contract) and only the owner of the contract can withdraw the funds
