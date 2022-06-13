@@ -10,7 +10,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-All the code was develop for learning from the [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&lis) from freeCodeCamp.org and Patrick Collins
+All the code was developed for learning purposes and is from [Learn Blockchain, Solidity, and Full Stack Web3 Development with JavaScript – 32-Hour Course](https://www.youtube.com/watch?v=gyMwXuJrbJQ&lis) by freeCodeCamp.org and Patrick Collins
 
 The project represents a smart contract for crowdfunding, where people can send money to the contract (getting their wallets and amount sent stored inside the smart contract) and only the owner of the contract can withdraw the funds
 
